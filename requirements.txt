@@ -1,0 +1,1 @@
+Библиотеки: sys, io, sqlite3, PyQt5
